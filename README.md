@@ -1,6 +1,8 @@
-|  |  |
-|------|-------------|
-|Are you watching closely?  |  ![GIF Anime](https://i.pinimg.com/originals/ec/a3/ff/eca3ff57be3ce5c194c9cb46da061726.gif )
+# 👋 Hi, I am C4miloN
+
+ ![GIF Anime](https://i.imgur.com/NkZ0TeW.gif)
+ 
+Are you watching closely?   
 
 The first part is called The Pledge. 
 The magician shows you something ordinary...
@@ -13,7 +15,7 @@ Thats why every magic trick has a third act, the hardest part, the part we call 
 
 ---
 
-# 👋 Hi, I am Camilo
+
 ## 💼 Technical Skills
 
 | Area | Description |
